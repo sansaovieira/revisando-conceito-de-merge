@@ -1,1 +1,3 @@
 Olá, está é a priemria linha do código
+
+Estou gostando muito de exercitar os comandos git e ver o meu desenvolvimento na área de dev
